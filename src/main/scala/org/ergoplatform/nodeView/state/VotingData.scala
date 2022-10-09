@@ -1,3 +1,7 @@
+/**
+In this file I think we need to change the boolean nature of vote counts, such that a vote can exist in a range from 0 to 1.
+
+*/
 package org.ergoplatform.nodeView.state
 
 import scorex.core.serialization.ScorexSerializer
