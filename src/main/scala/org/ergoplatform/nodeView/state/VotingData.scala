@@ -1,6 +1,6 @@
 /**
 In this file I think we need to change the boolean nature of vote counts, such that a vote can exist in a range from 0 to 1.
-
+I think defining as an Option[T] and creating a range for T up to the level of accuracy that we desire. e.g 0.0001-1 with each step
 */
 package org.ergoplatform.nodeView.state
 
